@@ -1,0 +1,7 @@
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\bin\Debug\KatelynProfanityProject.exe.config
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\bin\Debug\KatelynProfanityProject.exe
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\bin\Debug\KatelynProfanityProject.pdb
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\obj\Debug\KatelynProfanityProject.csprojResolveAssemblyReference.cache
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\obj\Debug\KatelynProfanityProject.exe
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\obj\Debug\KatelynProfanityProject.pdb
+c:\users\bballard\documents\visual studio 2015\Projects\KatelynProfanityProject\KatelynProfanityProject\bin\Debug\sentenceStructures.xml
